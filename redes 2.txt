@@ -1,0 +1,7 @@
+Señal ISP (internet service provider)
+
+la primera ip se considera de dominio
+y la ultima como Broadcast
+
+ip dom = 192.168.4.0
+ip broad = 192.168.4.255
